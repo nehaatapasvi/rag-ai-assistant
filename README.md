@@ -41,7 +41,7 @@ Upload PDF documents and ask questions based on their content.
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/nehaatapasvi/rag-ai-assistant.git>
+git clone https://github.com/nehaatapasvi/rag-ai-assistant.git
 cd rag-ai-assistant
 ```
 
